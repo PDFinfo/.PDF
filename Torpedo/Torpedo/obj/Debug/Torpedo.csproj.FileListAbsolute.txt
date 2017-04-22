@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Torpedo\Torpedo\bin\Debug\Torpedo.exe.config
+C:\Users\admin\Desktop\Torpedo\Torpedo\bin\Debug\Torpedo.exe
+C:\Users\admin\Desktop\Torpedo\Torpedo\bin\Debug\Torpedo.pdb
+C:\Users\admin\Desktop\Torpedo\Torpedo\obj\Debug\Torpedo.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Torpedo\Torpedo\obj\Debug\Torpedo.Form1.resources
+C:\Users\admin\Desktop\Torpedo\Torpedo\obj\Debug\Torpedo.Form2.resources
+C:\Users\admin\Desktop\Torpedo\Torpedo\obj\Debug\Torpedo.Properties.Resources.resources
+C:\Users\admin\Desktop\Torpedo\Torpedo\obj\Debug\Torpedo.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Torpedo\Torpedo\obj\Debug\Torpedo.exe
+C:\Users\admin\Desktop\Torpedo\Torpedo\obj\Debug\Torpedo.pdb
